@@ -1,2 +1,1 @@
-#teste
 print("hello world")
